@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaiveer Singh</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on a ecommerce store [store frontend](https://github.com/JaiveerS/ecommerce-store-frontend) ----[store backend](https://github.com/JaiveerS/ecommerce-store-backend)
+- 🔭 I’m currently working on a ecommerce store ([frontend](https://github.com/JaiveerS/ecommerce-store-frontend)) ([backend](https://github.com/JaiveerS/ecommerce-store-backend))
 
 - 🌱 I’m currently learning **Springboot,React**
 
