@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a ecommerce store ([frontend](https://github.com/JaiveerS/ecommerce-store-frontend)) ([backend](https://github.com/JaiveerS/ecommerce-store-backend))
 
-- 🌱 I’m currently learning **Springboot,React**
+- 🌱 I’m currently learning **Springboot & React**
 
 - 👨‍💻 All of my projects are available at [https://jaiveer.netlify.app/](https://jaiveer.netlify.app/)
 
