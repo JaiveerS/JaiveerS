@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaiveer Singh</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on [ecommerce-store](https://github.com/JaiveerS/ecommerce-store-backend)
 
